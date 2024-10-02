@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Modding\\MyDonerMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|c:\\projects\\modding\\mydonermod\\mydonermod\\mydonermod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|solutionrelative:mydonermod\\mydonermod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|c:\\projects\\modding\\mydonermod\\mydonermod\\customs\\itemgroups\\donerkebabm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|solutionrelative:mydonermod\\customs\\itemgroups\\donerkebabm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|c:\\projects\\modding\\mydonermod\\mydonermod\\customs\\items\\donermeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|solutionrelative:mydonermod\\customs\\items\\donermeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|c:\\projects\\modding\\mydonermod\\mydonermod\\customs\\itemgroups\\donerkebabmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|solutionrelative:mydonermod\\customs\\itemgroups\\donerkebabmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|c:\\projects\\modding\\mydonermod\\mydonermod\\customs\\itemgroups\\donerkebabmts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|solutionrelative:mydonermod\\customs\\itemgroups\\donerkebabmts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|c:\\projects\\modding\\mydonermod\\mydonermod\\customs\\itemgroups\\donerkebabcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|solutionrelative:mydonermod\\customs\\itemgroups\\donerkebabcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|c:\\projects\\modding\\mydonermod\\mydonermod\\customs\\dishes\\donerdish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|solutionrelative:mydonermod\\customs\\dishes\\donerdish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|c:\\projects\\modding\\mydonermod\\mydonermod\\refs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|solutionrelative:mydonermod\\refs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|c:\\projects\\modding\\mydonermod\\mydonermod\\customs\\appliances\\donermachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CFFC44-D4C6-4B93-A50D-233E49CD534C}|MyDonerMod\\MyDonerMod.csproj|solutionrelative:mydonermod\\customs\\appliances\\donermachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonerKebabM.cs",
+              "DocumentMoniker": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\ItemGroups\\DonerKebabM.cs",
+              "RelativeDocumentMoniker": "MyDonerMod\\Customs\\ItemGroups\\DonerKebabM.cs",
+              "ToolTip": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\ItemGroups\\DonerKebabM.cs",
+              "RelativeToolTip": "MyDonerMod\\Customs\\ItemGroups\\DonerKebabM.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:58:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonerKebabMT.cs",
+              "DocumentMoniker": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\ItemGroups\\DonerKebabMT.cs",
+              "RelativeDocumentMoniker": "MyDonerMod\\Customs\\ItemGroups\\DonerKebabMT.cs",
+              "ToolTip": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\ItemGroups\\DonerKebabMT.cs",
+              "RelativeToolTip": "MyDonerMod\\Customs\\ItemGroups\\DonerKebabMT.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwFYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:57:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonerKebabMTS.cs",
+              "DocumentMoniker": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\ItemGroups\\DonerKebabMTS.cs",
+              "RelativeDocumentMoniker": "MyDonerMod\\Customs\\ItemGroups\\DonerKebabMTS.cs",
+              "ToolTip": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\ItemGroups\\DonerKebabMTS.cs",
+              "RelativeToolTip": "MyDonerMod\\Customs\\ItemGroups\\DonerKebabMTS.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA8wFgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:55:48.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonerKebabComplete.cs",
+              "DocumentMoniker": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\ItemGroups\\DonerKebabComplete.cs",
+              "RelativeDocumentMoniker": "MyDonerMod\\Customs\\ItemGroups\\DonerKebabComplete.cs",
+              "ToolTip": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\ItemGroups\\DonerKebabComplete.cs",
+              "RelativeToolTip": "MyDonerMod\\Customs\\ItemGroups\\DonerKebabComplete.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA8wF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:48:38.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Refs.cs",
+              "DocumentMoniker": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Refs.cs",
+              "RelativeDocumentMoniker": "MyDonerMod\\Refs.cs",
+              "ToolTip": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Refs.cs",
+              "RelativeToolTip": "MyDonerMod\\Refs.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:18:39.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonerMeat.cs",
+              "DocumentMoniker": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\Items\\DonerMeat.cs",
+              "RelativeDocumentMoniker": "MyDonerMod\\Customs\\Items\\DonerMeat.cs",
+              "ToolTip": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\Items\\DonerMeat.cs",
+              "RelativeToolTip": "MyDonerMod\\Customs\\Items\\DonerMeat.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:03:41.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonerDish.cs",
+              "DocumentMoniker": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\Dishes\\DonerDish.cs",
+              "RelativeDocumentMoniker": "MyDonerMod\\Customs\\Dishes\\DonerDish.cs",
+              "ToolTip": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\Dishes\\DonerDish.cs",
+              "RelativeToolTip": "MyDonerMod\\Customs\\Dishes\\DonerDish.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAWwNoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:02:20.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DonerMachine.cs",
+              "DocumentMoniker": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\Appliances\\DonerMachine.cs",
+              "RelativeDocumentMoniker": "MyDonerMod\\Customs\\Appliances\\DonerMachine.cs",
+              "ToolTip": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\Customs\\Appliances\\DonerMachine.cs",
+              "RelativeToolTip": "MyDonerMod\\Customs\\Appliances\\DonerMachine.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwGEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:02:02.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDonerMod.cs",
+              "DocumentMoniker": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\MyDonerMod.cs",
+              "RelativeDocumentMoniker": "MyDonerMod\\MyDonerMod.cs",
+              "ToolTip": "C:\\Projects\\Modding\\MyDonerMod\\MyDonerMod\\MyDonerMod.cs",
+              "RelativeToolTip": "MyDonerMod\\MyDonerMod.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:53:34.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
